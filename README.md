@@ -107,7 +107,7 @@ The project uses two datasets.
 Starbucks-Beverage-Analysis/
 │
 ├── README.md
-├── Starbucks Dashboard.pbix
+├── starbuck_dashboard.pbix
 ├── starbucks_nutrition.csv
 ├── store_directory.csv
 │
