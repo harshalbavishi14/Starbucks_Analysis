@@ -2,7 +2,7 @@
 
 > **Interactive Power BI Dashboard for Nutritional Analysis of Starbucks Beverages**
 
-![Dashboard Preview](Assets/dashboard.png)
+![Dashboard Preview](Assets/Dashboard.png)
 
 ---
 
@@ -134,7 +134,7 @@ Starbucks-Beverage-Analysis/
 
 ### Main Dashboard
 
-![Dashboard](Assets/dashboard.png)
+![Dashboard](Assets/Dashboard.png)
 
 ---
 
