@@ -1,10 +1,4 @@
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
-
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
-
-![CSV](https://img.shields.io/badge/CSV-Data-blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)![CSV](https://img.shields.io/badge/CSV-Data-blue?style=for-the-badge)
 # ☕ Starbucks Beverage Analysis Dashboard
 
 > **Interactive Power BI Dashboard for Nutritional Analysis of Starbucks Beverages**
